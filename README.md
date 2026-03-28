@@ -21,6 +21,8 @@
 <img width="689" height="385" alt="Captura de pantalla 2026-03-27 191632" src="https://github.com/user-attachments/assets/01e1e440-378f-4bff-bc35-2b163e14d38a" />
 
 ## PREGUNTA 8
+<img width="446" height="341" alt="image" src="https://github.com/user-attachments/assets/98bcadd2-8718-4666-859d-d0fdc747a2d1" />
+
 ## PREGUNTA 9
 <img width="557" height="339" alt="Captura de pantalla 2026-03-27 192416" src="https://github.com/user-attachments/assets/1edfb07e-bd6a-4442-bb43-56e1317f247c" />
 
