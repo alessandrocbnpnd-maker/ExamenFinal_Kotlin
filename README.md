@@ -12,7 +12,7 @@ Estamos usando = dentro del if, que es asignación, no comparación debemos usar
 ## PREGUNTA 3
 <img width="641" height="245" alt="Captura de pantalla 2026-03-27 190700" src="https://github.com/user-attachments/assets/99e110c6-0092-4305-affa-08de6b7582a7" />
 
-Asiganmos la variable nombre y le damos un valor antes de usarla "Alessandro"
+Asignamos la variable nombre y le damos un valor antes de usarla "Alessandro"
 
 ## PREGUNTA 4
 <img width="700" height="333" alt="Captura de pantalla 2026-03-27 190934" src="https://github.com/user-attachments/assets/16670efc-fd6c-4bfe-828c-eaedc3e4c9c8" />
